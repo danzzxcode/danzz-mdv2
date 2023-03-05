@@ -19,7 +19,7 @@ global.saipulapi = 'https://saipulanuar.ga'
 global.ibengapi = 'https://api.ibeng.tech'
 
 // API Key For https://danzzapi.xyz & https://api-danzz.xyz
-global.apikey = 'YOUR APIKEY' // Get in: https://danzzapi.xyz
+global.apikey = '92a70b789c' // Get in: https://danzzapi.xyz
 global.apikeyprem = 'BELI APIKEY? CHAT: wa.me/6289512545999 / KE WEBSITE RESMI: https://danzzapi.xyz/pricing' // Get in: https://danzzapi.xyz
 global.apikeyvip = 'BELI APIKEY? CHAT: wa.me/6289512545999 / KE WEBSITE RESMI: https://danzzapi.xyz/pricing' // Get in: https://danzzapi.xyz
 
